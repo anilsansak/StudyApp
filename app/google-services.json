@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "49060368948",
+    "firebase_url": "https://plakaapp-1720f.firebaseio.com",
+    "project_id": "plakaapp-1720f",
+    "storage_bucket": "plakaapp-1720f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49060368948:android:0bcbdc5e2911c4d3",
+        "android_client_info": {
+          "package_name": "com.example.acerbilgisayar.quoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49060368948-e5nk29m6djihcpjf4s9hms6gjkvkn5pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCi0tQSHzl3AVZKTqEmYY_M1ePb--Rrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
